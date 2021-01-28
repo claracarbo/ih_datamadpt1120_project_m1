@@ -18,3 +18,26 @@ The aim of the project is to find out the % of each job profile grouped by age a
 
 ### :computer: **Technology**
 Python, Pandas, Sqlalchemy, BeautifulSoup
+
+### :file_folder: **Folder structure**
+```
+└── project
+    ├── __trash__
+    ├── .gitignore
+    ├── .env
+    ├── requeriments.txt
+    ├── README.md
+    ├── main_script.py
+    ├── notebooks
+    │   ├── Acquire_Wrangling_Functions.ipynb
+    │   └── Analysis_Functions.ipynb
+    ├── p_acquisition
+    │   └── m_acquisition.py
+    ├── p_analysis
+    │   └── m_analysis.py
+    ├── p_wrangling
+    │   └── m_wrangling.py
+    └── data
+        ├── raw
+        ├── processed
+        └── results
