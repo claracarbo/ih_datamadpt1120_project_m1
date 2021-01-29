@@ -49,6 +49,7 @@ Acquiring data from 3 different datasources (Data Base, API and WebScrapit), cle
 
 ```
 
-## :love_letter: claracarbocanals@gmail.com
-Doubts? Advice?  Drop me a line!
+## :love_letter: Contact info
+Doubts? Advice? Drop me a line! 
+claracarbocanals@gmail.com
 	
